@@ -1,0 +1,6 @@
+{
+  "name": "TerraGrid",
+  "description": "Off-grid GPS speedometer, accurate coordinate telemetry, offline map tile caching, and Maps-grounded remote exploration intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
